@@ -288,7 +288,7 @@ var i=0;
             easingFunctions[
                 'easeInCubic'
             ];
-const duration = parseInt(40, 10);
+const duration = parseInt(40000, 10);
             const animate = true;
             // const offsetX = parseInt(
             //     document.getElementById('offset-x').value,
